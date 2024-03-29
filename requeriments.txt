@@ -53,6 +53,7 @@ six==1.16.0
 smmap==5.0.1
 sounddevice==0.4.6
 streamlit==1.32.2
+streamlit-webrtc
 tenacity==8.2.3
 toml==0.10.2
 toolz==0.12.1
